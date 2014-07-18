@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           recordproto
 Version:        1.14.2
 Release:        1
